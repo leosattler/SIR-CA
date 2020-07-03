@@ -7,12 +7,11 @@
 ____________________________________________________________
 
 Python implementation of a two-dimensional Cellular Automata to simulate epidemic spreading based on the SIR compartmental model.  
-This project is part of CAP-241 course evaluation. Alongside this program,  
-the following report (in Portuguese) was presented to Prof. Sandra Sandri:  
+This project is part of CAP-241 course evaluation. Alongside this program, the following report (in Portuguese) was presented to Prof. Sandra Sandri:   
 https://www.overleaf.com/read/znfhxhgsxqbs.
 
-You should have received a copy of the GNU General Public License    
-along with this program. If not, see <http://www.gnu.org/licenses/>.
+You should have received a copy of the GNU General Public License along with this program.   
+If not, see <http://www.gnu.org/licenses/>.
 ____________________________________________________________
 
 #### Source:  
